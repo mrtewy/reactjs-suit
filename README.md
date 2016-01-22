@@ -1,6 +1,6 @@
-# ReactJS Web Development & Minified Ready Suite
+# ReactJS NodeJS Express Gulp & Minified Ready Suite
 
-Gulp React with Watchify, Browersify, Sass and Livereload
+NodeJS ReactJS Express Gulp Watchify, Browersify, Sass and Livereload
 Note: Livereload
 * Please install LiveRelove on GoogleChrome
 https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en
