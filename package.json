@@ -1,7 +1,7 @@
 {
-  "name": "reactInit",
+  "name": "Tewy ReactJS Ready Suite",
   "version": "1.0.0",
-  "description": "React development boilerplate",
+  "description": "Gulp React with Watchify, Browersify, Sass and Livereload Note: Livereload",
   "main": "index.html",
   "scripts": {
     "dev": "gulp",
